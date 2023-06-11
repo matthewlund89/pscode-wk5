@@ -1,1 +1,0 @@
-This is a practice exercise on creating pseudo code for an assignment in Code Louisville.
