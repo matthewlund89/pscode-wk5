@@ -1,0 +1,1 @@
+This is a practice assignment for Code Louisville. It is meant for me to practice writing pseudocode.
