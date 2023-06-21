@@ -1,10 +1,20 @@
 // Exercise 1: Calculate the Sum of Two Numbers
 
-(Your pseudocode here)
+input(num1)
+input(num2)
+sum=(num1)+(num2)
+print Sum
 
 // Exercise 2: Check if a Number is Even or Odd
 
-(Your pseudocode here)
+input(num1)
+
+#find the modulus (remainder) and if it is 0, then it is even#
+if (num1)%2==0
+print Even
+#find the modulus (remainder) and if it is NOT 0, then it is odd#
+if (num1)%2!=0
+print Odd
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
@@ -14,6 +24,24 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-(Your pseudocode here)
+a)input(num1, num2, num3, num4, num5)
+b) average=(num1+num2+num3+num4+num5)/5
+c) 
+int min
+int max  
+
+if num1<num2 then set min to num1
+if min>=num3 then set min to num3
+if min>=num4 then set min to num4
+if min>=num5 then set min to num5
+
+if num1>num2 then set max to num1
+if max<=num3 then set max to num3
+if max<=num4 then set max to num4
+if max<=num5 then set max to num5
+
+d) print="maximum" + max
+print="minumum" + min
+print="average" + average
 
 -- END --
